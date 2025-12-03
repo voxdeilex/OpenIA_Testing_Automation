@@ -19,7 +19,7 @@ Uses AI to interpret the task and autonomously operate the browser
 
 This repository forms part of my QA Automation portfolio, showcasing modern approaches to testing using AI-driven automation.
 
-#Features
+# Features
 
 ✔ Automated UI interaction using Browser-Use (AI Agent)
 ✔ Natural language test instructions
