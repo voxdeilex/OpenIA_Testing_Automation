@@ -1,0 +1,5 @@
+python-dotenv
+browser-use
+openai
+pytest
+pytest-asyncio
